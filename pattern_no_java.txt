@@ -1,0 +1,14 @@
+class pattern_no_
+{
+public static void main(String args[])
+{
+for(x=1;x<=5;x++)
+{
+for(y=5;y>=x;y++)
+{
+System.out.print(y+" ");
+}
+System.out.println();
+}
+}
+}
